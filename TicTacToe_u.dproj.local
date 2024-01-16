@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.718,=C:\Users\Stanley\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.964,C:\Users\Stanley\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\Stanley\Documents\Embarcadero\Studio\Projects\TicTacToe_p.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.065,C:\Users\Philip Gricius\Documents\Embarcadero\Studio\Projects\frmSplashscr.pas=C:\Users\Philip Gricius\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.887,C:\Users\Stanley\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Stanley\Documents\Embarcadero\Studio\Projects\TicTacToe_u.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.614,=C:\Users\Philip Gricius\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.964,C:\Users\Stanley\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Stanley\Documents\Embarcadero\Studio\Projects\TicTacToe_p.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.065,C:\Users\Philip Gricius\Documents\Embarcadero\Studio\Projects\frmSplashscr.dfm=C:\Users\Philip Gricius\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.972,=C:\Users\Philip Gricius\Documents\Embarcadero\Studio\Projects\Splashscreen_p.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.308,=C:\Users\Philip Gricius\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
